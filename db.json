@@ -619,11 +619,11 @@
       "confirmpassword": "user@123",
       "cart": [
         {
-          "id": "33",
-          "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/44adc135-7c02-489a-828b-ebb32c337e96/jordan-stadium-90-se-older-shoes-LSC7kP.png",
-          "rating": 4.9,
-          "title": "Jordan Stadium 90 SE",
-          "price": 8195
+          "id": "1",
+          "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/60d2e87c-9eaa-46a0-b9aa-0f730291262b/air-force-1-07-shoes-VWCc04.png",
+          "rating": 5.9,
+          "title": "Nike Air Force",
+          "price": 22000
         },
         {
           "id": "3",
@@ -647,6 +647,29 @@
           "rating": 4.8,
           "title": "Nike V2K Run",
           "price": 10798
+        }
+      ]
+    },
+    {
+      "id": "427e",
+      "name": "Muheen",
+      "email": "muheen@gmail.com",
+      "password": "12345678",
+      "confirmpassword": "12345678",
+      "cart": [
+        {
+          "id": "1",
+          "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/60d2e87c-9eaa-46a0-b9aa-0f730291262b/air-force-1-07-shoes-VWCc04.png",
+          "rating": 5.9,
+          "title": "Nike Air Force",
+          "price": 22000
+        },
+        {
+          "id": "18",
+          "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/7175e331-1c9c-4af3-9908-86b40a137a79/air-max-90-lv8-shoes-r1gjfC.png",
+          "rating": 2.9,
+          "title": "Nike Air Max 90 LV8",
+          "price": 12795
         }
       ]
     }

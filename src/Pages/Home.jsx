@@ -16,7 +16,7 @@ export default function Home() {
       >
         {/* Text content on the left */}
         <section className="z-10 xl:w-2/5 flex flex-col justify-start items-start px-8 pt-28">
-          <p className="text-xl text-[red]">Our summer collections</p>
+          <p className="text-xl text-[red]">Our Summer Collections</p>
           <h1 className="mt-10 font-mono text-[black] text-8xl max-sm:text-[72px] leading-[106px] max-sm:leading-[82px] font-bold">
             <span className="bg-white relative z-10 pr-10 lg:text-8xl font-mono xl:whitespace-nowrap">
               The New Arrival</span>
